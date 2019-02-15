@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Micro 5735512153\program4\program4\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Micro 5735512153\program4\program4\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Micro 5735512153\program4\program4\Debug\program4.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>program4.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>program4.map</FILE>
+  <FILE>program4.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>D:\Micro 5735512153\program4\program4\main.asm</FILE><LINE>13</LINE></RESET>
+  <a><FILE>D:\Micro 5735512153\program4\program4\main.asm</FILE><LINE>34</LINE></a>
+  <END><FILE>D:\Micro 5735512153\program4\program4\main.asm</FILE><LINE>30</LINE></END>
+  <b><FILE>D:\Micro 5735512153\program4\program4\main.asm</FILE><LINE>35</LINE></b>
+ </LABELS>
+</ASSEMBLER_INFO>

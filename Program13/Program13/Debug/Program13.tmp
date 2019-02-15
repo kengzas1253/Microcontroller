@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Micro 5735512153\Program13\Program13\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Micro 5735512153\Program13\Program13\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Micro 5735512153\Program13\Program13\Debug\Program13.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Program13.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Program13.map</FILE>
+  <FILE>Program13.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>D:\Micro 5735512153\Program13\Program13\main.asm</FILE><LINE>11</LINE></main>
+  <SARARY><FILE>D:\Micro 5735512153\Program13\Program13\main.asm</FILE><LINE>36</LINE></SARARY>
+  <for_i><FILE>D:\Micro 5735512153\Program13\Program13\main.asm</FILE><LINE>17</LINE></for_i>
+  <end><FILE>D:\Micro 5735512153\Program13\Program13\main.asm</FILE><LINE>32</LINE></end>
+  <for_j><FILE>D:\Micro 5735512153\Program13\Program13\main.asm</FILE><LINE>20</LINE></for_j>
+  <loop><FILE>D:\Micro 5735512153\Program13\Program13\main.asm</FILE><LINE>26</LINE></loop>
+ </LABELS>
+</ASSEMBLER_INFO>
