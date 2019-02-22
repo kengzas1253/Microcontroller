@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Micro 5735512153\program21\program21\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Micro 5735512153\program21\program21\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Micro 5735512153\program21\program21\Debug\program21.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>program21.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>program21.map</FILE>
+  <FILE>program21.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>D:\Micro 5735512153\program21\program21\main.asm</FILE><LINE>14</LINE></RESET>
+  <MAIN><FILE>D:\Micro 5735512153\program21\program21\main.asm</FILE><LINE>15</LINE></MAIN>
+  <POWERS><FILE>D:\Micro 5735512153\program21\program21\main.asm</FILE><LINE>23</LINE></POWERS>
+  <END><FILE>D:\Micro 5735512153\program21\program21\main.asm</FILE><LINE>22</LINE></END>
+  <FOR><FILE>D:\Micro 5735512153\program21\program21\main.asm</FILE><LINE>33</LINE></FOR>
+  <LOOP><FILE>D:\Micro 5735512153\program21\program21\main.asm</FILE><LINE>37</LINE></LOOP>
+  <ENDFOR><FILE>D:\Micro 5735512153\program21\program21\main.asm</FILE><LINE>46</LINE></ENDFOR>
+ </LABELS>
+</ASSEMBLER_INFO>
